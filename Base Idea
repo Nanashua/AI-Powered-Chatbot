@@ -1,3 +1,5 @@
+# Visi & Problem Statement
+
 *Masalah:*
 - Banyak pertanyaan berulang (SOP, alur, teknis)
 - Susun pesan formal bolak-balik
@@ -8,3 +10,5 @@
 
 *Solusi:* 
 Sebuah Knowledge-Base AI yang bertindak sebagai "Single Source of Truth". OpsAssist AI memahami seluruh dokumen internal perusahaan dan menjawab pertanyaan operasional secara instan.
+
+# Arsitektur Utama
